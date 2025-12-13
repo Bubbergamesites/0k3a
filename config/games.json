@@ -240,6 +240,16 @@
     "title": "Drive Mad"
   },
   {
+    "link": "projects/driftboss/index.html",
+    "imgSrc": "projects/driftboss/IMG_3085.jpeg",
+    "title": "Drift boss"
+  },
+  {
+    "link": "projects/drifthunters/index.html",
+    "imgSrc": "projects/drifthunters/drifthunters.png",
+    "title": "Drift hunters"
+  },
+  {
     "link": "projects/ducklife1/index.html",
     "imgSrc": "projects/ducklife1/ducklife.png",
     "title": "Duck Life"
