@@ -74,7 +74,7 @@ function getRandomGreeting() {
     "i put coins in my special place",
     "The skeleton with the sword. HE FOUND YOU!",
     "I spent too much time making these",
-  ]
+
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
 }
